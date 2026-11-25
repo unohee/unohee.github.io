@@ -8,18 +8,20 @@ Seoul, South Korea<br>
 heewon.oh@intrect.io<br>
 [github.com/unohee](https://github.com/unohee) · [huggingface.co/intrect](https://huggingface.co/intrect) · [linkedin.com/in/unohee](https://www.linkedin.com/in/unohee/) · [intrect.io](https://intrect.io) · [kimkate.net](https://kimkate.net)
 
-Audio machine-learning researcher and software engineer. I build forensic detectors for AI-generated music, real-time audio plug-ins, and the LLM and data infrastructure behind them. Since 2015 I have also worked as a sound designer and composer for brands, fashion, and media art under the name Kim Kate.
+Audio machine-learning researcher and software engineer. I build forensic detectors for AI-generated music, real-time audio plug-ins, and LLM and data infrastructure. I have also worked for over ten years as a sound designer and composer for brands, fashion, and media art under the name Kim Kate.
 
 ## Experience
 
 **Intrect** — Founder & CEO<br>
 2026 – present, Incheon
+
 - Audio research and software company: forensic detection of AI-generated music and artifact reduction for AI-generated audio and separated stems.
 - Developed ArtifactNet, a forensic detector for AI-generated music, and ArtifactBench, a lineage-aware evaluation benchmark.
 - Shipped DAW plug-ins (VST3 / AU / CLAP) including de-artifact, de-leak, and ENZYME, plus cloud processing and a REST API.
 
 **Independent AI / Software Engineer**<br>
 2024 – 2026
+
 - VELA: fine-tuned a Qwen2.5-7B-based model on 36,713 SFT samples and 24,779 DPO pairs; built RAG (FAISS, BM25/FTS5) and structured report generation around it; deployed through quantized runtimes, RunPod Serverless, and Apple Silicon MLX.
 - OpenSwarm: open-source multi-agent coding orchestrator for Claude Code CLI with worker/reviewer patterns, long-term vector memory, and issue-driven automation.
 - Data ingestion pipelines (collection, parsing, embedding, deduplication, internal API serving); services operated over Tailscale and Cloudflare Tunnel, packaged with Docker and Nginx.
@@ -27,6 +29,7 @@ Audio machine-learning researcher and software engineer. I build forensic detect
 **Lecturer, Media Art / Music Programming**<br>
 Seoul Institute of the Arts, Department of Applied Music, 2021 – 2026<br>
 Howon University, Department of Applied Music, 2022 – 2025
+
 - Taught electronic music, music programming, and interactive systems.
 
 **Ableton Certified Trainer**<br>
@@ -34,6 +37,7 @@ Howon University, Department of Applied Music, 2022 – 2025
 
 **Earwire** — Sound Designer and Composer<br>
 2018 – 2022, Seoul
+
 - Audio branding and music for brand films, fashion shows, and exhibitions.
 
 ## Publications
@@ -68,13 +72,13 @@ Selected commissions. Full archive: [kimkate.net](https://kimkate.net)
 
 - 2025 — TXT, *The Star Chapter: TOGETHER* preview (BIGHIT MUSIC / HYBE LABELS). Sound design.
 - 2023 — Jung Kook, *The Brand.* (BIGHIT MUSIC / LONETONE). Sound design.
-- 2023 — *Documentary Girl* (KBS). Music.
+- 2023 — *다큐멘터리 걸* (KBS). Music.
 - 2022 — thisisneverthat, Winter 2022. Sound design, music.
 - 2021 — Louis Vuitton Men's Fall-Winter 2021 show in Seoul. Songwriting, sound design.
 - 2021 — "New Vintage" Converse × thisisneverthat. Soundtrack.
 - 2020 — thisisneverthat Pokémon Collection II. Sound design, soundtrack.
 - 2020 — Dickies × thisisneverthat collection. Soundtrack, sound design.
-- 2018 – 2019 — ULKIN, Seoul Fashion Week (four seasons, 2018 F/W to 2020 S/S). Show music.
+- 2018 – 2019 — ULKIN, Seoul Fashion Week (four seasons, 2018 F/W to 2020 S/S).
 - Unilever / Rexona, product motion. Music, sound design, mixing.
 
 ## Exhibitions and performances
