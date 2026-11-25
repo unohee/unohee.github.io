@@ -10,3 +10,7 @@ package.json
 *.gem
 *.gemspec
 .jekyll-cache
+
+# Local deletion staging, never published
+trash/
+vendor/
