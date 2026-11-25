@@ -44,7 +44,7 @@ Howon University, Department of Applied Music, 2022 – 2025
 
 - H. Oh. *ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics.* arXiv:2604.16254, 2026. Submitted to IEEE/ACM TASLP. [arxiv.org/abs/2604.16254](https://arxiv.org/abs/2604.16254)
 - H. Oh. *ArtifactBench: Lineage-Aware Evaluation of AI-Generated Music Detectors under Distribution Shift.* arXiv:2609.23550, 2026. [arxiv.org/abs/2609.23550](https://arxiv.org/abs/2609.23550)
-- *Multidimensional Analysis and Visualization of Audio Datasets.* Journal of Digital Contents Society, 2025.
+- H. Oh. *Multidimensional Analysis and Visualization of Audio Datasets.* Journal of Digital Contents Society, 2025. [kci.go.kr](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003204538)
 
 ## Open source
 
