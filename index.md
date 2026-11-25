@@ -80,3 +80,14 @@ Selected commissions. Full archive: [kimkate.net](https://kimkate.net)
 - 2020 — Dickies × thisisneverthat collection. Soundtrack, sound design.
 - 2018 – 2019 — ULKIN, Seoul Fashion Week (four seasons, 2018 F/W to 2020 S/S).
 - Unilever / Rexona, product motion. Music, sound design, mixing.
+
+## Exhibitions and performances
+
+- 2021 — *횡단하는 물질의 세계 (Transversal World of Matter)*, ARKO Art & Technology Festival.
+- 2021 — *Seeing Sound Listening Image*, Sewoon Hall, Seoul.
+- 2020 – 2021 — *Catastrophic Sensation*, Soorim Cultural Foundation, Seoul. Sound for Ji Hye Yeom, *Symbioplot*.
+- 2020 — *ACC Context: Solidarity Spores*, Asia Culture Center, Gwangju. Sound for Ji Hye Yeom, *AI Octopus*.
+- 2020 — *Earthbound*, Amado Art Space, Seoul. Sound for Ji Hye Yeom, *Le Soleil Noir*.
+- 2018 — *How Little You Know About Me*, MMCA Seoul. Sound for Ji Hye Yeom, *Future Fever*.
+- 2017 — *Music × A.I.* with SM Entertainment, Korea Creative Content Agency.
+- 2015 — *Three Planes of Notion*, PureGold Festival, EMS Concert, Southbank Centre, London.
